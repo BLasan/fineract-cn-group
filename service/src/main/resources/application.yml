@@ -34,12 +34,12 @@
 # limitations under the License.
 #
 
-spring:
-  cloud:
-    discovery:
-      enabled: false
-    config:
-      enabled: false
+#spring:
+#  cloud:
+#    discovery:
+#      enabled: false
+#    config:
+#      enabled: false
 
 eureka:
   client:
